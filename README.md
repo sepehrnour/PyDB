@@ -22,6 +22,7 @@ This project is a web application built using Node.js and Python with SQL for st
 # Installation
 Clone this repository to your local machine.
 Install the required dependencies by running npm install and pip install in the project directory.
+ - Be certain that you have npm, npx, and express functioning well as it can malfunction if your enviornment path variable does not include their install location
 Obtain clientID and clientSecret credentials from Google API.
 Set up environment variables for clientID and clientSecret.
 
